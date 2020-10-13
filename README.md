@@ -5,6 +5,7 @@
 ---
 
 To learn more about Markov Chains, follow this [link](https://setosa.io/ev/markov-chains/) 
+
 To learn more about Hash Maps, follow this [link](https://www.interviewcake.com/concept/java/hash-map)
 
 The **Markov Chain Text Generator** works as follows: 
